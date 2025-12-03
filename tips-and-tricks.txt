@@ -1,0 +1,6 @@
+How to write a Commit Message:
+
+1. Keep the title and the body separate by using a space
+2. Keep it short and to the point
+3. Use Imperative Mood in the title ( As if commanding someone )
+4. The body should explain the following: What, Why and How?
